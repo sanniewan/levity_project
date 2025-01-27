@@ -1,4 +1,1 @@
-Important contents 11/26:
-
-PLL
-Frequency adjustment with Python
+Python to UART interface in python_interface lol
