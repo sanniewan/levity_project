@@ -1,6 +1,6 @@
 Target=python_interface
 TOP=python_interface
-OBJS+=python_interface.v clock.v
+OBJS+=python_interface.v clock.v freq_select.v four_byte_receiver_rx.v uart_rx.v
 
 ################################################################################
  # make all
